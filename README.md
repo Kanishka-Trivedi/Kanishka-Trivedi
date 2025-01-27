@@ -102,10 +102,11 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanishka/Kanishka/main/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kanishka/Kanishka/main/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kanishka/Kanishka/main/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanishka-trivedi/kanishka-trivedi/main/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanishka-trivedi/kanishka-trivedi/main/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kanishka-trivedi/kanishka-trivedi/main/github-snake.svg" />
 </picture>
+
 
 
 💬 Feel free to share your ideas, feedback, and suggestions—always excited to learn, collaborate, and grow through new technologies!
