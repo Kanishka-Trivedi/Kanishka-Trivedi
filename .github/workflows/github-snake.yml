@@ -25,7 +25,7 @@ jobs:
       # Step 3: Set Git user identity (to avoid errors when making commits)
       - name: Set Git user identity
         run: |
-          git config user.name "Kanishka-Trivedi"
+          git config user.name "kanishka-trivedi"
           git config user.email "kanishka.trivedi.cg@gmail.com"
 
       # Step 4: Generate GitHub Contribution Snake Animation
