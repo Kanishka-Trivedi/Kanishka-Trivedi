@@ -107,6 +107,9 @@
 
 ![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/kanishka-trivedi/kanishka-trivedi/output/github-contribution-grid-snake-dark.svg)
 
+---
+### Devlopment Activity
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanishka-trivedi&custom_title=Development%20Activity&hide_border=true&bg_color=0d1117&line=23A401&point=B116A8&color=c9d1d9&title_color=23A401&area=true)
 
 💬 Feel free to share your ideas, feedback, and suggestions—always excited to learn, collaborate, and grow through new technologies!
