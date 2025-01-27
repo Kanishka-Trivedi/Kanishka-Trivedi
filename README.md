@@ -91,6 +91,10 @@
 
 
 ---
+## Visits
+![Visits Badge](https://profile-counter.glitch.me/kanishka-trivedi/count.svg)
+
+---
 ### 🌟 My Interests
 - 💰 Fintech Evolution: Merging finance with cutting-edge tech to empower users.
 - 🤖 AI & Machine Learning: Crafting smart financial insights from data.
