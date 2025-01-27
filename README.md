@@ -101,7 +101,7 @@
 
 
 
-![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/Priyasha-Yadav/Priyasha-Yadav/output/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/Kanishka-Trivedi/Kanishka-Trivedi/output/github-contribution-grid-snake-dark.svg)
 
 
 
