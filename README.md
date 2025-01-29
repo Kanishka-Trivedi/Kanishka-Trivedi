@@ -104,8 +104,10 @@
 - 🌐 Web Development: Crafting impactful, user-friendly applications.
 
 
+---
 
-![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/kanishka-trivedi/kanishka-trivedi/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/kanishka-trivedi/kanishka-trivedi/blob/output/github-snake-dark.svg)
+
 
 ---
 ### Devlopment Activity
