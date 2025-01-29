@@ -9,6 +9,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishka-trivedi&label=Profile%20views&color=0e75b6&style=flat" alt="kanishka-trivedi" /> </p>
 
 
+
+<p align="center">
+  <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/assets/main.gif?raw=true" width="300" />
+</p>
+
+
 ---
 ### 🏆 GitHub Trophies
 
