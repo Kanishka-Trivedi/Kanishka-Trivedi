@@ -2,9 +2,7 @@
 <h3 align="center">A passionate FullStack developer from India.</h3>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF61D9&center=true&width=600&lines=Welcome+to+my+GitHub+profile!+💻;Full-Stack+Developer+🌐;Open-Source+Contributor+❤️;Lifelong+Learner+🎓" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishka-trivedi&label=Profile%20views&color=0e75b6&style=flat" alt="kanishka-trivedi" /> </p>
 
@@ -14,86 +12,131 @@
   <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/assets/main.gif?raw=true" width="300" />
 </p>
 
+I’m Kanishka — a full-stack developer who loves building web experiences that actually work and feel great to use. I mainly work with the MERN stack, building things like shopping platforms and real-time chat apps that help people connect.
+I enjoy digging into tricky bugs, experimenting with new technologies, and refining code until it feels clean and thoughtful. I try to approach every project as a problem solver and grow a little with each one 🚀
+
+<i>PS: Usually fueled by coffee and a few well-placed console.log() statements — building the web one commit at a time ☕</i>
 
 ---
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanishka-trivedi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
-</p>
+[![Trophies](https://github-trophies.vercel.app/?username=kanishka-trivedi&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15)](https://github.com/kanishka-trivedi)
 
 
 ---
-### Github Stats 📊
+## Connect With Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishka-trivedi&show_icons=true&locale=en&layout=compact" alt="kanishka-trivedi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishka-trivedi&show_icons=true&locale=en" alt="kanishka-trivedi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-trivedi&" alt="kanishka-trivedi" /></p>
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishka-trivedi/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Kanishka6126Trivedi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kanishka-trivedi.netlify.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@logic_lane6)
 
 
-<p align="left"> <a href="https://twitter.com/kanishkatr76445" target="blank"><img src="https://img.shields.io/twitter/follow/kanishkatr76445?logo=twitter&style=for-the-badge" alt="kanishkatr76445" /></a> </p>
-
+- Solved 150 DSA problems consistently with a focus on clarity and optimization
+- Creating YouTube videos explaining LeetCode problems step by step
+- Building full-stack projects using the MERN stack
+- Sharing technical learnings and project updates on LinkedIn
 ---
-### ✨ About Me 👤
 
-- 🔭 I’m currently working on **FINOPTIX, a finance aid website.**
+## About Me
+```javascript
+const Kanishka = {
+  pronouns: "She/Her",
+  role: "Full Stack Developer",
+  code: ["JavaScript", "C++", "SQL"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind CSS"],
+      stateManagement: ["Redux Toolkit"],
+    },
+    backEnd: {
+      js: ["Node.js", "Express.js"],
+      auth: ["JWT", "Firebase Auth"],
+    },
+    databases: ["MongoDB", "MySQL", "Redis"],
+    realTime: ["Socket.io", "GetStream"],
+    tools: ["Git", "GitHub", "Postman"],
+    cloud: ["Azure Fundamentals", "AWS (Basics)"],
+  },
+  interests: [
+    "Building scalable MERN applications",
+    "Designing clean UI/UX",
+    "Solving DSA problems using C++",
+    "Explaining LeetCode problems on YouTube",
+  ],
+  education: {
+    degree: "B.Tech in Computer Science",
+    university: "Rai University",
+    cgpa: "9.5/10",
+    duration: "2024 - 2028",
+  },
+  funFact:
+    "Fueled by coffee ☕, late-night debugging, and way too many console.log() statements.",
+};
 
-- 🌱 I’m currently learning **React.js and c++.**
-
-- 🤝 I’m looking for help with **Improving the user experience and integrating advanced analytics into FINOPTIX..**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Kanishka-Trivedi?tab=repositories](https://github.com/Kanishka-Trivedi?tab=repositories)
-
-- 💬 Ask me about **React, Node.js, MongoDB, and JavaScript**
-
-- 📫 How to reach me **kanishka.trivedi.cg@gmail.com**
-
-- ⚡ Fun fact **I’ll spend hours automating something just to save a few minutes—it’s my favorite kind of challenge!**
-
-
+```
 ---
-### 🛠️ My Skills
 
-#### Frontend Development
+## Also active at
 
-- 💻 **Languages**: HTML, CSS, JavaScript, C
-- 📚 **Frameworks & Libraries**: React.js, Tailwind
-
-#### Backend Development
-- 🌐 **Languages**: Node.js, C++, C
-- 🗄️ **Databases**: MongoDB
-
-#### Tools & Platforms
-- ☁️ **Cloud**: AWS,compass,atlas
-- 🛠️ **Others**: Postman, Figma, Git, GitHub
-
-
----
-### 🤝 Connect With Me 🔗
-
-<div align="center">
-  <a href="https://www.instagram.com/kanishkatrivedi06" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-  <a href="kanishka.trivedi.cg@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/Kanishka Trivedi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="https://x.com/kanishkatr76445?s=11" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
-  </a>
-</div>
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kanishka_trived1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishka.trivedi.cg@gmail.com)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kanishkatr76445)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/32474384)
 
 
 ---
 ###  💻 Tech Stack 🔍
+<table width="100%" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <!-- CORE STACK -->
+    <td width="50%" valign="top" align="center">
+      <h3>Core Tools & Languages</h3>
 
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+  <table>
+    <tr>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></td>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></td>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></td>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></td>
+    </tr>
+    <tr>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></td>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></td>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></td>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></td>
+    </tr>
+    <tr>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"></td>
+    </tr>
+  </table>
+</td>
+
+<!-- SUPPORTING STACK -->
+<td width="50%" valign="top" align="center">
+  <h3>Supporting / Familiar</h3>
+
+  <table>
+    <tr>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"></td>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></td>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></td>
+    </tr>
+    <tr>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
+    </tr>
+  </table>
+</td>
+  </tr>
+</table>
 
 
 ---
