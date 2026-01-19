@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
 <h1 align="center">Hi 👋, I'm Kanishka Trivedi</h1>
 <h3 align="center">A passionate FullStack developer from India.</h3>
 
@@ -77,7 +79,7 @@ const Kanishka = {
 
 ```
 ---
-## Github Stats
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishka-trivedi&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -158,6 +160,12 @@ const Kanishka = {
 
 ---
 
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ![snake gif](https://github.com/kanishka-trivedi/kanishka-trivedi/blob/output/github-snake-dark.svg)
 ---
 ### Devlopment Activity
@@ -165,3 +173,5 @@ const Kanishka = {
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanishka-trivedi&custom_title=Development%20Activity&hide_border=true&bg_color=0d1117&line=23A401&point=B116A8&color=c9d1d9&title_color=23A401&area=true)
 
 💬 Feel free to share your ideas, feedback, and suggestions—always excited to learn, collaborate, and grow through new technologies!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
