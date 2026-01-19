@@ -98,7 +98,7 @@ const Kanishka = {
     <tr>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></td>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"></td>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></td>
     </tr>
     <tr>
@@ -133,31 +133,17 @@ const Kanishka = {
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
     </tr>
+    <tr>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></td>
+    </tr>
   </table>
 </td>
   </tr>
 </table>
 
-
----
-## Visits
-![Visits Badge](https://profile-counter.glitch.me/kanishka-trivedi/count.svg)
-
----
-### 🌟 My Interests
-- 💰 Fintech Evolution: Merging finance with cutting-edge tech to empower users.
-- 🤖 AI & Machine Learning: Crafting smart financial insights from data.
-- 🎨 UI/UX Design
-- 📊 Financial Optimization: Helping people grow wealth and minimize waste.
-- 🚀 Learning Tech: Exploring and mastering new technologies.
-- 🌐 Web Development: Crafting impactful, user-friendly applications.
-
-
 ---
 
 ![snake gif](https://github.com/kanishka-trivedi/kanishka-trivedi/blob/output/github-snake-dark.svg)
-
-
 ---
 ### Devlopment Activity
 
