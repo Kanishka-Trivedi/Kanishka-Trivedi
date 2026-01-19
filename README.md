@@ -85,6 +85,15 @@ const Kanishka = {
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kanishkatr76445)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/32474384)
 
+---
+
+## Projects
+
+|<img src="https://res.cloudinary.com/ddc8en3sk/image/upload/v1768813859/Screenshot_2026-01-19_144036_wvlous.png"/>| <img src="https://res.cloudinary.com/ddc8en3sk/image/upload/v1768814015/Screenshot_2026-01-19_144311_lxeq9l.png"/>|<img src="https://res.cloudinary.com/ddc8en3sk/image/upload/v1768813977/Screenshot_2026-01-19_144231_f47eey.png"/>| 
+|-------------|-------------|---|
+|<br> [Finoptix Live Link](https://finoptix.netlify.app/) |<br> [Verbio Live Link](https://verbio.netlify.app/) |<br> [Willow&Vine Live Link](https://willowandvine.netlify.app/) |
+|[View Repository](https://github.com/Kanishka-Trivedi/finoptix)|[View Repository](https://github.com/Kanishka-Trivedi/Verbio)|[View Repository](https://github.com/Kanishka-Trivedi/Willow-Vine)|
+|A personal finance and investment management web app designed to help users track spending and achieve long-term financial goals.|A social networking web application that enables users to connect globally through real-time chat and group video calls.|An e-commerce web application for purchasing plants, seeds, and gardening tools with a smooth and user-friendly shopping experience.|
 
 ---
 ###  💻 Tech Stack 🔍
